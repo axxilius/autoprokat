@@ -827,9 +827,11 @@ button.close:hover {
 /* ========================= Header ========================= */
 
 #header {
-	position:relative;
+	/*position:relative;
 	color:#FFF;
-	background-color:#ff6969;
+	background-color:#ff6969;*/
+	background:#212425 url('../images/design/base-header.jpg') no-repeat fixed top center;
+	background-size:cover;
 }
 	#header .header-container {
 		background:url('../images/base-header-overlay.png') repeat top left;
