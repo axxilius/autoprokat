@@ -1,38 +1,18 @@
-<footer class="site-footer">
+<!-- #footer -->
+<footer id="footer">
 
-  <div class="wrapper">
+  <!-- .container -->
+  <div class="container">
 
-    <h2 class="footer-heading">{{ site.title }}</h2>
+    <p class="copyright-text">&copy; 2016 by <a href="http://affapress.com">Affapress</a> - All rights reserved.</p>
 
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description }}</p>
-      </div>
+    <div class="socials">
+      <a href="#" title="Facebook"><i class="fa fa-facebook"></i></a>
+      <a href="#" title="Twitter"><i class="fa fa-twitter"></i></a>
+      <a href="#" title="Google Plus"><i class="fa fa-google-plus"></i></a>
     </div>
 
   </div>
+  <!-- .container end -->
 
 </footer>
