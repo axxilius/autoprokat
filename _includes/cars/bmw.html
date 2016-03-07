@@ -1,0 +1,33 @@
+<!-- .row -->
+<div class="row padding-bottom20">
+
+    <div class="col-sm-6 col-md-5 margin-bottom20">
+        <figure><img src="images/cars/bmw/main.png" alt="Image"></figure>
+        <div class="text-center"><a href="images/cars/bmw/main.png" class="btn btn-primary bmw-album">Фотогалерея автомобиля</a></div>
+        {% loop_directory directory:images/cars/bmw/album iterator:image filter:*.jpg sort:descending %}
+            <a class="bmw-album" href="images/cars/bmw/album/{{ image }}.jpg" style="display: none;" /></a>
+        {% endloop_directory %}
+    </div>
+
+    <div class="col-sm-6 col-md-7 col-lg-6 col-lg-offset-1 margin-bottom20">
+        <div>
+            <div class="post-heading-left">
+                <h2><strong>BMW 5 серии</strong></h2>
+                <p>Роскошный и комфортный немецкий автомобиль</p>
+            </div>
+            <p>Пожалуй, единственные 3 буквы, вызывающие исключительно восторг и восхищение. Одно из главных чудес немецкого автопрома, подчёркивающее важность и статусность вашего события</p>
+            <div class="list-icon no-margin-bottom">
+                <ul>
+                    <li><i class="fa fa-check-square-o"></i>Кожаный салон</li>
+                    <li><i class="fa fa-check-square-o"></i>Климат контроль</li>
+                    <li><i class="fa fa-check-square-o"></i>3 места</li>
+                    <li><i class="fa fa-check-square-o"></i>Украшение на выбор</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+
+
+</div>
+<!-- .row end -->

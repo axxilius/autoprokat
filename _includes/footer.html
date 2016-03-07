@@ -4,15 +4,25 @@
   <!-- .container -->
   <div class="container">
 
-    <p class="copyright-text">&copy; 2016 by <a href="http://affapress.com">Affapress</a> - All rights reserved.</p>
+    <p class="copyright-text">&copy; 2016 <a href="/">Авто Премиум Групп</a></p>
 
     <div class="socials">
-      <a href="#" title="Facebook"><i class="fa fa-facebook"></i></a>
-      <a href="#" title="Twitter"><i class="fa fa-twitter"></i></a>
-      <a href="#" title="Google Plus"><i class="fa fa-google-plus"></i></a>
+      <a href="https://vk.com/club50310635" title="Вконтакте"><i class="fa fa-vk"></i></a>
+      <a href="https://www.instagram.com/aprgroup/" title="Инстаграм"><i class="fa fa-instagram"></i></a>
     </div>
 
   </div>
   <!-- .container end -->
 
 </footer>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src='{{"/js/jquery.colorbox.js" | prepend: site.baseurl }}'></script>
+<script>
+  $(document).ready(function() {
+    //Examples of how to assign the Colorbox event to elements
+    $(".group1").colorbox({rel: 'group1', width: '90%', height: '90%'});
+    $(".bmw-album").colorbox({rel: 'bwm-album', width: '90%', height: '90%'});
+    $(".audi-album").colorbox({rel: 'bwm-album', width: '90%', height: '90%'});
+    $(".chrysler-album").colorbox({rel: 'chrysler-album', width: '90%', height: '90%'});
+  })
+</script>
