@@ -4,9 +4,9 @@
     <div class="col-sm-6 col-md-5 margin-bottom40">
         <figure><img src="images/cars/chrysler/main.png" alt="Image"></figure>
         <div class="text-center"><a href="images/cars/chrysler/main.png" class="btn btn-primary chrysler-album">Фотогалерея автомобиля</a></div>
-        {% loop_directory directory:images/cars/bmw/album iterator:image filter:*.jpg sort:descending %}
-        <a class="chrysler-album" href="images/cars/chrysler/album/{{ image }}.jpg" style="display: none;" /></a>
-        {% endloop_directory %}
+        {% for i in (1..9) %}
+        <a class="chrysler-album" href="images/cars/chrysler/album/0{{ i }}.jpg" style="display: none;" /></a>
+        {% endfor %}
     </div>
 
     <div class="col-sm-6 col-md-7 col-lg-6 col-lg-offset-1 margin-bottom40">
