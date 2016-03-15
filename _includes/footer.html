@@ -15,14 +15,30 @@
   <!-- .container end -->
 
 </footer>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src='{{"/js/jquery.colorbox.js" | prepend: site.baseurl }}'></script>
+<script src='{{"/js/owl.carousel.min.js" | prepend: site.baseurl }}'></script>
 <script>
   $(document).ready(function() {
     //Examples of how to assign the Colorbox event to elements
-    $(".group1").colorbox({rel: 'group1', width: '90%', height: '90%'});
     $(".bmw-album").colorbox({rel: 'bwm-album', width: '90%', height: '90%'});
-    $(".audi-album").colorbox({rel: 'bwm-album', width: '90%', height: '90%'});
+    $(".audi-album").colorbox({rel: 'audi-album', width: '90%', height: '90%'});
     $(".chrysler-album").colorbox({rel: 'chrysler-album', width: '90%', height: '90%'});
+    $("#owl-demo").owlCarousel({
+
+      //navigation : true, // Show next and prev buttons
+      slideSpeed : 300,
+      paginationSpeed : 400,
+      singleItem:true,
+      autoPlay:true
+
+      // "singleItem:true" is a shortcut for:
+      // items : 1,
+      // itemsDesktop : false,
+      // itemsDesktopSmall : false,
+      // itemsTablet: false,
+      // itemsMobile : false
+
+    });
   })
 </script>

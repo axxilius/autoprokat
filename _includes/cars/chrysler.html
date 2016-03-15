@@ -3,25 +3,28 @@
 
     <div class="col-sm-6 col-md-5 margin-bottom40">
         <figure><img src="images/cars/chrysler/main.png" alt="Image"></figure>
-        <div class="text-center"><a href="images/cars/chrysler/main.png" class="btn btn-primary chrysler-album">Фотогалерея автомобиля</a></div>
+        <div class="text-center" style="margin-top: 40px;"><a href="images/cars/chrysler/main.png" class="btn btn-primary chrysler-album">Фотогалерея автомобиля</a></div>
         {% for i in (1..9) %}
         <a class="chrysler-album" href="images/cars/chrysler/album/0{{ i }}.jpg" style="display: none;" /></a>
+        {% endfor %}
+        {% for i in (10..16) %}
+        <a class="chrysler-album" href="images/cars/chrysler/album/{{ i }}.jpg" style="display: none;" /></a>
         {% endfor %}
     </div>
 
     <div class="col-sm-6 col-md-7 col-lg-6 col-lg-offset-1 margin-bottom40">
         <div>
             <div class="post-heading-left">
-                <h2><strong>CHRYSLER 300</strong></h2>
+                <h2><strong>new CHRYSLER 300C</strong> (II поколение)</h2>
                 <p>Легенда американского автопрома</p>
             </div>
-            <p>Поездка в ЗАГС на Крайслере это не только комфортное перемещение из пункта А в пункт Б, но и тонна незабываемых фотографий, которые заставят ваших друзей грызть локти от зависти</p>
+            <p>Chrysler 300C - это образ жизни, сочетающий в себе бескомпромиссную роскошь, феноменальную скорость и безупречный стиль</p>
             <div class="list-icon no-margin-bottom">
                 <ul>
                     <li><i class="fa fa-check-square-o"></i> Кожаный салон</li>
-                    <li><i class="fa fa-check-square-o"></i> Климат контроль</li>
-                    <li><i class="fa fa-check-square-o"></i> 3 человека вместимость</li>
-                    <li><i class="fa fa-check-square-o"></i> Украшение на выбор</li>
+                    <li><i class="fa fa-check-square-o"></i> Панорамная крыша</li>
+                    <li><i class="fa fa-check-square-o"></i> 5 мест</li>
+                    <li><i class="fa fa-check-square-o"></i> Люк</li>
                 </ul>
             </div>
         </div>
