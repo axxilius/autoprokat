@@ -15,15 +15,20 @@
   <!-- .container end -->
 
 </footer>
+
+<!-- Latest compiled and minified JavaScript -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 <script src='{{"/js/jquery.colorbox.js" | prepend: site.baseurl }}'></script>
 <script src='{{"/js/owl.carousel.min.js" | prepend: site.baseurl }}'></script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/fotorama/4.5.1/fotorama.js"></script> <!-- 16 KB -->
 <script>
   $(document).ready(function() {
     //Examples of how to assign the Colorbox event to elements
     $(".bmw-album").colorbox({rel: 'bwm-album', width: '90%', height: '90%'});
     $(".audi-album").colorbox({rel: 'audi-album', width: '90%', height: '90%'});
     $(".chrysler-album").colorbox({rel: 'chrysler-album', width: '90%', height: '90%'});
+    $(".decorations").colorbox({rel: 'decorations'});
     $("#owl-demo").owlCarousel({
 
       //navigation : true, // Show next and prev buttons

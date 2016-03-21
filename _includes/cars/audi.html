@@ -21,13 +21,11 @@
 
     <div class="col-sm-6 col-md-5 col-lg-5 margin-bottom40 padding-top20">
         <figure><img src="images/cars/audi/main.png" alt="Image"></figure>
-        <div class="text-center"><a href="images/cars/audi/main.png" class="btn btn-primary audi-album">Фотогалерея автомобиля</a></div>
-        {% for i in (1..9) %}
-        <a class="audi-album" href="images/cars/audi/album/0{{ i }}.jpg" style="display: none;" /></a>
-        {% endfor %}
-        {% for i in (10..34) %}
-        <a class="audi-album" href="images/cars/audi/album/{{ i }}.jpg" style="display: none;" /></a>
-        {% endfor %}
+        <div class="text-center">
+            <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#audi-modal">
+                Фото автомобиля
+            </button>
+        </div>
     </div>
 
 </div>
