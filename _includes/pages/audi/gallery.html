@@ -1,0 +1,32 @@
+<!-- #features2 -->
+<div id="features2" class="wrap-container6020">
+
+    <!-- .container -->
+    <div class="container">
+
+        <div class="post-heading-center">
+            <h2>Как может выглядеть ваш свадебный автомобиль AUDI</h2>
+            <p>Несколько фотографии предлагаемых автомобилей Ауди с прошедших мероприятий</p>
+        </div>
+
+        <!-- .row -->
+        <div class="row">
+            {% for i in (1..9) %}
+            <div class="col-sm-2" style="height: 133px;overflow-y: hidden;"> <!-- 1 -->
+                <a class="decorations" href="images/cars/audi/album/0{{ i }}.jpg" title="Украшение на автомобиль"><img class="img-responsive" style="margin-bottom:10px;width: 200px;"  src="images/cars/audi/album/0{{ i }}.jpg"/></a>
+            </div>
+            {% endfor %}
+            {% for i in (10..34) %}
+            <div class="col-sm-2" style="height: 133px;overflow-y: hidden;"> <!-- 1 -->
+                <a class="decorations" href="images/cars/audi/album/{{ i }}.jpg" title="Украшение на автомобиль"><img class="img-responsive" style="margin-bottom:10px;width: 200px;"  src="images/cars/audi/album/{{ i }}.jpg"/></a>
+            </div>
+            {% endfor %}
+        </div>
+        <!-- .row end -->
+
+
+    </div>
+    <!-- .container end -->
+
+</div>
+<!-- #features2 end -->

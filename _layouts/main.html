@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  {% include common/head.html %}
+
+  <body>
+  {% include common/navigation.html %}
+    <header id="header">
+      <div class="header-container">
+        <div class="container">
+          <div class="header-heading-title">
+            <h1 style="padding: 0px;margin: 0px;font-size: 3.0em!important;">Автомобили премиум класса на свадьбу</h1>
+            <h4 style="padding: 10px 0px 0px 0px;margin: 0px;">Набережные Челны, Нижнекамск, Елабуга и прочие города закамья</h4>
+          </div>
+          {% include main/top_carousel.html %}
+        </div>
+      </div>
+    </header>
+
+    <!-- #features -->
+    <div id="features" class="bg-grey padding-top60 no-border-top">
+
+      <!-- .container -->
+      <div class="container">
+
+        <div class="post-heading-center">
+          <h2>Роскошные, статусные автомобили</h2>
+          <p>украсят любое ваше торжество</p>
+        </div>
+
+        {% include main/cars/bmw.html %}
+        {% include main/cars/audi.html %}
+        {% include main/cars/chrysler.html %}
+
+      </div>
+      <!-- .container end -->
+
+    </div>
+    <!-- #features end -->
+
+    {% include main/decorations.html %}
+    {% include main/counters.html %}
+    {% include main/pricing.html %}
+    {% include main/buynow.html %}
+    {% include main/testimonials.html %}
+
+    {% include common/footer.html %}
+
+    {% include modal/audi.html %}
+    {% include modal/bmw.html %}
+    {% include modal/chrysler.html %}
+
+  </body>
+
+</html>
