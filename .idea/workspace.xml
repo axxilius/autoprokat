@@ -2,33 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54f9f0dd-22b0-43e1-9112-9e4166eeabfc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/a4_main.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/common/navigation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/main/top_carousel.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/pages/audi/a4.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/pages/audi/a6.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/pages/audi/buynow.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/pages/audi/gallery.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/pages/audi/pricing.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_layouts/cars.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_layouts/main.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/audi.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/page.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/about.md" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_includes/buynow.html" afterPath="$PROJECT_DIR$/_includes/main/buynow.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_includes/cars/audi.html" afterPath="$PROJECT_DIR$/_includes/main/cars/audi.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_includes/cars/bmw.html" afterPath="$PROJECT_DIR$/_includes/main/cars/bmw.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_includes/cars/chrysler.html" afterPath="$PROJECT_DIR$/_includes/main/cars/chrysler.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_includes/counters.html" afterPath="$PROJECT_DIR$/_includes/main/counters.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_includes/decorations.html" afterPath="$PROJECT_DIR$/_includes/main/decorations.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="$PROJECT_DIR$/_includes/common/footer.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_includes/head.html" afterPath="$PROJECT_DIR$/_includes/common/head.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_includes/header.html" afterPath="$PROJECT_DIR$/_includes/common/header.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_includes/pricing.html" afterPath="$PROJECT_DIR$/_includes/main/pricing.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_includes/testimonials.html" afterPath="$PROJECT_DIR$/_includes/main/testimonials.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/audi.html" afterPath="$PROJECT_DIR$/audi.html" />
     </list>
     <ignored path="autoprokat.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -110,8 +85,8 @@
       <file leaf-file-name="audi.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/audi.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+            <state relative-caret-position="420">
+              <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
               <folding>
                 <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#header#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#header#0;n#!!top" expanded="true" />
@@ -428,7 +403,7 @@
       <updated>1455042913046</updated>
       <workItem from="1461064013131" duration="3318000" />
       <workItem from="1461506712703" duration="116000" />
-      <workItem from="1461687518985" duration="2354000" />
+      <workItem from="1461687518985" duration="2484000" />
     </task>
     <task id="LOCAL-00001" summary="change chrysler photos">
       <created>1458199587775</created>
@@ -514,11 +489,18 @@
       <option name="project" value="LOCAL" />
       <updated>1459171387041</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="mail form handler">
+      <created>1461689877781</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1461689877781</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5788000" />
+    <option name="totallyTimeSpent" value="5918000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
@@ -990,8 +972,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/audi.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        <state relative-caret-position="420">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
           <folding>
             <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#header#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#header#0;n#!!top" expanded="true" />
