@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54f9f0dd-22b0-43e1-9112-9e4166eeabfc" name="Default" comment="fix">
+    <list default="true" id="54f9f0dd-22b0-43e1-9112-9e4166eeabfc" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thanks.html" afterPath="$PROJECT_DIR$/thanks.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/main/top_carousel.html" afterPath="$PROJECT_DIR$/_includes/main/top_carousel.html" />
     </list>
     <ignored path="autoprokat.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,17 +25,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="top_carousel.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="top_carousel.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/main/top_carousel.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="588">
-              <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+            <state relative-caret-position="228">
+              <caret line="22" column="85" selection-start-line="22" selection-start-column="85" selection-end-line="22" selection-end-column="85" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="thanks.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="thanks.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/thanks.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="42">
@@ -184,12 +184,12 @@
         <option value="$PROJECT_DIR$/_posts/testimonials_3.markdown" />
         <option value="$PROJECT_DIR$/testimonials/all.html" />
         <option value="$PROJECT_DIR$/_includes/common/header.html" />
-        <option value="$PROJECT_DIR$/_includes/main/top_carousel.html" />
         <option value="$PROJECT_DIR$/_layouts/post.html" />
         <option value="$PROJECT_DIR$/_layouts/thanks.html" />
         <option value="$PROJECT_DIR$/_posts/2016-02-12-testimonials-1.markdown" />
         <option value="$PROJECT_DIR$/_posts/2016-02-12-testimonials-2.markdown" />
         <option value="$PROJECT_DIR$/thanks.html" />
+        <option value="$PROJECT_DIR$/_includes/main/top_carousel.html" />
       </list>
     </option>
   </component>
@@ -408,7 +408,7 @@
       <workItem from="1462218802533" duration="125000" />
       <workItem from="1462454747187" duration="783000" />
       <workItem from="1462900044151" duration="2136000" />
-      <workItem from="1462985352662" duration="5951000" />
+      <workItem from="1462985352662" duration="6058000" />
     </task>
     <task id="LOCAL-00001" summary="change chrysler photos">
       <created>1458199587775</created>
@@ -550,11 +550,18 @@
       <option name="project" value="LOCAL" />
       <updated>1462991095247</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="fix">
+      <created>1462991363329</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1462991363329</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17729000" />
+    <option name="totallyTimeSpent" value="17836000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
@@ -607,7 +614,8 @@
     <MESSAGE value="price changed" />
     <MESSAGE value="added bmw и chrysler" />
     <MESSAGE value="added testimonials, changed feedback form, added thanks page" />
-    <option name="LAST_COMMIT_MESSAGE" value="added testimonials, changed feedback form, added thanks page" />
+    <MESSAGE value="fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -974,14 +982,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/main/top_carousel.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
@@ -1021,6 +1021,14 @@
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/main/top_carousel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="22" column="85" selection-start-line="22" selection-start-column="85" selection-end-line="22" selection-end-column="85" />
+          <folding />
         </state>
       </provider>
     </entry>
