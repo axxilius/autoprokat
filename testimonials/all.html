@@ -1,0 +1,23 @@
+---
+title: Автомобили на свадьбу отзывы в Челнах
+excerpt: Честные отзывы от людей, заказывавших автомобили на свадьбу в Набережных Челнах
+layout: testimonials
+auto:
+---
+{% include pages/testimonials/header.html %}
+<div class="container">
+{% for post in site.categories.testimonials %}
+    <div class="row padding-top20">
+        <div class="col-md-1 text-center col-md-offset-1">
+            <figure><img src="{{post.avatar}}" class="img-responsive"></figure>
+            <div class="name">{{post.author}}</div>
+        </div>
+        <div class="col-md-9 padding-bottom20" style="border-bottom: 1px solid #f3f2f1">
+            {{post.excerpt}}
+            <div class="row">
+                <div class="col-md-3"><img src="{{post.photos}}" class="img-responsive"></div>
+            </div>
+        </div>
+    </div>
+{% endfor %}
+</div>
