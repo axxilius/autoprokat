@@ -2,223 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54f9f0dd-22b0-43e1-9112-9e4166eeabfc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/05.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/06.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/07.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/08.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/09.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/21.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/22.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/23.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/24.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/25.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/26.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/27.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/28.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/29.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/30.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/31.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/32.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/33.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/34.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/05.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/06.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/07.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/08.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/09.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/21.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/22.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/23.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/24.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/25.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/26.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/27.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/28.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/29.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/30.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/31.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/32.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/33.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/34.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/bmw/album/medium/01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/bmw/album/medium/02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/bmw/album/medium/03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/bmw/album/medium/04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/bmw/album/medium/05.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/bmw/album/medium/06.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/bmw/album/medium/07.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/bmw/album/medium/08.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/bmw/album/medium/09.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/bmw/album/medium/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/bmw/album/medium/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/bmw/album/medium/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/bmw/album/medium/13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/bmw/album/medium/14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/bmw/album/medium/15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/bmw/album/medium/16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/bmw/album/medium/17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/bmw/album/th/01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/bmw/album/th/02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/bmw/album/th/03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/bmw/album/th/04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/bmw/album/th/05.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/bmw/album/th/06.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/bmw/album/th/07.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/bmw/album/th/08.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/bmw/album/th/09.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/bmw/album/th/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/bmw/album/th/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/bmw/album/th/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/bmw/album/th/13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/bmw/album/th/14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/bmw/album/th/15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/bmw/album/th/16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/bmw/album/th/17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/05.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/06.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/07.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/08.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/09.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/21.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/22.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/23.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/24.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/25.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/26.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/27.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/28.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/29.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/30.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/05.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/06.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/07.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/08.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/09.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/21.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/22.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/23.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/24.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/25.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/26.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/27.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/28.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/29.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/30.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/05.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/06.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/07.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/08.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/09.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/medium/01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/medium/02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/medium/03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/medium/04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/medium/05.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/medium/06.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/medium/07.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/medium/08.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/medium/09.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/medium/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/medium/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/medium/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/medium/13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/medium/14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/medium/15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/th/01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/th/02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/th/03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/th/04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/th/05.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/th/06.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/th/07.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/th/08.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/th/09.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/th/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/th/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/th/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/th/13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/th/14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/th/15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/main/cars/chrysler_cabrio.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/modal/chrysler_cabrio.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/main.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/main/4.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/main/cars/chrysler.html" afterPath="$PROJECT_DIR$/_includes/main/cars/chrysler.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/main/pricing.html" afterPath="$PROJECT_DIR$/_includes/main/pricing.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/main/top_carousel.html" afterPath="$PROJECT_DIR$/_includes/main/top_carousel.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/modal/audi.html" afterPath="$PROJECT_DIR$/_includes/modal/audi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/modal/bmw.html" afterPath="$PROJECT_DIR$/_includes/modal/bmw.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/modal/chrysler.html" afterPath="$PROJECT_DIR$/_includes/modal/chrysler.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/main.html" afterPath="$PROJECT_DIR$/_layouts/main.html" />
     </list>
     <ignored path="autoprokat.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -369,6 +155,56 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="autoprokat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="autoprokat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="autoprokat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="autoprokat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="autoprokat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="autoprokat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="autoprokat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cars" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -538,7 +374,7 @@
       <workItem from="1463478302104" duration="790000" />
       <workItem from="1463593514293" duration="674000" />
       <workItem from="1463646500409" duration="22000" />
-      <workItem from="1464025345634" duration="2380000" />
+      <workItem from="1464025345634" duration="2546000" />
     </task>
     <task id="LOCAL-00001" summary="change chrysler photos">
       <created>1458199587775</created>
@@ -701,11 +537,18 @@
       <option name="project" value="LOCAL" />
       <updated>1463478487733</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="added cabrio">
+      <created>1464028223974</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1464028223974</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22929000" />
+    <option name="totallyTimeSpent" value="23095000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
@@ -761,7 +604,8 @@
     <MESSAGE value="fix" />
     <MESSAGE value="fix back url from feedback form" />
     <MESSAGE value="fix layout" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix layout" />
+    <MESSAGE value="added cabrio" />
+    <option name="LAST_COMMIT_MESSAGE" value="added cabrio" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
