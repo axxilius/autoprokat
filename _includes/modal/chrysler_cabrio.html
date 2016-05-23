@@ -1,0 +1,21 @@
+<!-- Modal -->
+<div class="modal fade" id="chrysler-cabrio-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel">Фотоальбом Chrysler 200 Cabrio</h4>
+            </div>
+            <div class="modal-body">
+                <div id="fotorama-chrysler" class="fotorama" data-fit="cover" data-nav="thumbs" data-width="730" data-height="400">
+                    {% for i in (1..9) %}
+                    <img src="images/cars/chrysler_cabrio/album/medium/0{{ i }}.jpg"/>
+                    {% endfor %}
+                    {% for i in (10..15) %}
+                    <img src="images/cars/chrysler_cabrio/album/medium/{{ i }}.jpg"/>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
