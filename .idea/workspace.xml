@@ -2,9 +2,488 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54f9f0dd-22b0-43e1-9112-9e4166eeabfc" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/a4_main.png" afterPath="$PROJECT_DIR$/images/cars/audi/a4_main.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/01.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/01.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/02.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/02.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/03.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/03.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/04.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/04.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/05.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/05.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/06.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/06.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/07.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/07.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/08.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/08.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/09.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/09.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/10.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/10.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/11.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/11.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/12.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/12.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/13.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/13.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/14.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/14.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/15.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/15.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/16.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/16.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/17.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/17.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/18.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/18.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/19.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/19.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/20.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/21.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/21.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/22.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/22.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/23.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/23.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/24.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/24.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/25.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/25.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/26.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/26.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/27.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/27.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/28.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/28.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/29.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/29.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/30.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/30.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/31.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/31.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/32.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/32.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/33.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/33.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/34.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/34.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/medium/01.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/01.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/medium/02.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/02.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/medium/03.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/03.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/medium/04.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/04.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/medium/05.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/05.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/medium/06.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/06.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/medium/07.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/07.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/medium/08.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/08.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/medium/09.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/09.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/medium/10.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/10.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/medium/11.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/11.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/medium/12.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/12.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/medium/13.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/13.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/medium/14.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/14.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/medium/15.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/15.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/medium/16.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/16.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/medium/17.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/17.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/medium/18.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/18.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/medium/19.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/19.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/medium/20.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/medium/21.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/21.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/medium/22.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/22.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/medium/23.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/23.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/medium/24.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/24.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/medium/25.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/25.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/medium/26.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/26.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/medium/27.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/27.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/medium/28.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/28.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/medium/29.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/29.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/medium/30.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/30.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/medium/31.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/31.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/medium/32.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/32.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/medium/33.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/33.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/medium/34.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/medium/34.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/th/01.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/01.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/th/02.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/02.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/th/03.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/03.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/th/04.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/04.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/th/05.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/05.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/th/06.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/06.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/th/07.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/07.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/th/08.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/08.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/th/09.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/09.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/th/10.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/10.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/th/11.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/11.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/th/12.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/12.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/th/13.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/13.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/th/14.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/14.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/th/15.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/15.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/th/16.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/16.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/th/17.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/17.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/th/18.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/18.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/th/19.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/19.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/th/20.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/th/21.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/21.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/th/22.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/22.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/th/23.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/23.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/th/24.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/24.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/th/25.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/25.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/th/26.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/26.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/th/27.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/27.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/th/28.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/28.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/th/29.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/29.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/th/30.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/30.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/th/31.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/31.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/th/32.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/32.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/th/33.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/33.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/th/34.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/th/34.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/thumb/01.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/thumb/01.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/thumb/02.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/thumb/02.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/thumb/03.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/thumb/03.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/thumb/04.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/thumb/04.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/thumb/05.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/thumb/05.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/thumb/06.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/thumb/06.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/thumb/07.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/thumb/07.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/thumb/08.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/thumb/08.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/thumb/09.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/thumb/09.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/thumb/10.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/thumb/10.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/thumb/11.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/thumb/11.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/thumb/12.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/thumb/12.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/thumb/13.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/thumb/13.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/thumb/14.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/thumb/14.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/thumb/15.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/thumb/15.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/thumb/16.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/thumb/16.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/thumb/17.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/thumb/17.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/thumb/18.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/thumb/18.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/thumb/19.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/thumb/19.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/thumb/20.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/thumb/20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/thumb/21.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/thumb/21.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/thumb/22.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/thumb/22.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/thumb/23.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/thumb/23.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/thumb/24.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/thumb/24.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/thumb/25.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/thumb/25.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/thumb/26.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/thumb/26.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/thumb/27.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/thumb/27.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/thumb/28.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/thumb/28.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/thumb/29.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/thumb/29.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/thumb/30.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/thumb/30.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/thumb/31.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/thumb/31.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/thumb/32.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/thumb/32.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/thumb/33.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/thumb/33.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/album/thumb/34.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/album/thumb/34.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/main.jpg" afterPath="$PROJECT_DIR$/images/cars/audi/main.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/audi/main.png" afterPath="$PROJECT_DIR$/images/cars/audi/main.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/bmw/album/01.jpg" afterPath="$PROJECT_DIR$/images/cars/bmw/album/01.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/bmw/album/02.jpg" afterPath="$PROJECT_DIR$/images/cars/bmw/album/02.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/bmw/album/03.jpg" afterPath="$PROJECT_DIR$/images/cars/bmw/album/03.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/bmw/album/04.jpg" afterPath="$PROJECT_DIR$/images/cars/bmw/album/04.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/bmw/album/05.jpg" afterPath="$PROJECT_DIR$/images/cars/bmw/album/05.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/bmw/album/06.jpg" afterPath="$PROJECT_DIR$/images/cars/bmw/album/06.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/bmw/album/07.jpg" afterPath="$PROJECT_DIR$/images/cars/bmw/album/07.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/bmw/album/08.jpg" afterPath="$PROJECT_DIR$/images/cars/bmw/album/08.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/bmw/album/09.jpg" afterPath="$PROJECT_DIR$/images/cars/bmw/album/09.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/bmw/album/10.jpg" afterPath="$PROJECT_DIR$/images/cars/bmw/album/10.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/bmw/album/11.jpg" afterPath="$PROJECT_DIR$/images/cars/bmw/album/11.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/bmw/album/12.jpg" afterPath="$PROJECT_DIR$/images/cars/bmw/album/12.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/bmw/album/13.jpg" afterPath="$PROJECT_DIR$/images/cars/bmw/album/13.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/bmw/album/14.jpg" afterPath="$PROJECT_DIR$/images/cars/bmw/album/14.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/bmw/album/15.jpg" afterPath="$PROJECT_DIR$/images/cars/bmw/album/15.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/bmw/album/16.jpg" afterPath="$PROJECT_DIR$/images/cars/bmw/album/16.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/bmw/album/17.jpg" afterPath="$PROJECT_DIR$/images/cars/bmw/album/17.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/bmw/album/medium/01.jpg" afterPath="$PROJECT_DIR$/images/cars/bmw/album/medium/01.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/bmw/album/medium/02.jpg" afterPath="$PROJECT_DIR$/images/cars/bmw/album/medium/02.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/bmw/album/medium/03.jpg" afterPath="$PROJECT_DIR$/images/cars/bmw/album/medium/03.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/bmw/album/medium/04.jpg" afterPath="$PROJECT_DIR$/images/cars/bmw/album/medium/04.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/bmw/album/medium/05.jpg" afterPath="$PROJECT_DIR$/images/cars/bmw/album/medium/05.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/bmw/album/medium/06.jpg" afterPath="$PROJECT_DIR$/images/cars/bmw/album/medium/06.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/bmw/album/medium/07.jpg" afterPath="$PROJECT_DIR$/images/cars/bmw/album/medium/07.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/bmw/album/medium/08.jpg" afterPath="$PROJECT_DIR$/images/cars/bmw/album/medium/08.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/bmw/album/medium/09.jpg" afterPath="$PROJECT_DIR$/images/cars/bmw/album/medium/09.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/bmw/album/medium/10.jpg" afterPath="$PROJECT_DIR$/images/cars/bmw/album/medium/10.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/bmw/album/medium/11.jpg" afterPath="$PROJECT_DIR$/images/cars/bmw/album/medium/11.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/bmw/album/medium/12.jpg" afterPath="$PROJECT_DIR$/images/cars/bmw/album/medium/12.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/bmw/album/medium/13.jpg" afterPath="$PROJECT_DIR$/images/cars/bmw/album/medium/13.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/bmw/album/medium/14.jpg" afterPath="$PROJECT_DIR$/images/cars/bmw/album/medium/14.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/bmw/album/medium/15.jpg" afterPath="$PROJECT_DIR$/images/cars/bmw/album/medium/15.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/bmw/album/medium/16.jpg" afterPath="$PROJECT_DIR$/images/cars/bmw/album/medium/16.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/bmw/album/medium/17.jpg" afterPath="$PROJECT_DIR$/images/cars/bmw/album/medium/17.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/bmw/album/th/01.jpg" afterPath="$PROJECT_DIR$/images/cars/bmw/album/th/01.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/bmw/album/th/02.jpg" afterPath="$PROJECT_DIR$/images/cars/bmw/album/th/02.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/bmw/album/th/03.jpg" afterPath="$PROJECT_DIR$/images/cars/bmw/album/th/03.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/bmw/album/th/04.jpg" afterPath="$PROJECT_DIR$/images/cars/bmw/album/th/04.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/bmw/album/th/05.jpg" afterPath="$PROJECT_DIR$/images/cars/bmw/album/th/05.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/bmw/album/th/06.jpg" afterPath="$PROJECT_DIR$/images/cars/bmw/album/th/06.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/bmw/album/th/07.jpg" afterPath="$PROJECT_DIR$/images/cars/bmw/album/th/07.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/bmw/album/th/08.jpg" afterPath="$PROJECT_DIR$/images/cars/bmw/album/th/08.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/bmw/album/th/09.jpg" afterPath="$PROJECT_DIR$/images/cars/bmw/album/th/09.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/bmw/album/th/10.jpg" afterPath="$PROJECT_DIR$/images/cars/bmw/album/th/10.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/bmw/album/th/11.jpg" afterPath="$PROJECT_DIR$/images/cars/bmw/album/th/11.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/bmw/album/th/12.jpg" afterPath="$PROJECT_DIR$/images/cars/bmw/album/th/12.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/bmw/album/th/13.jpg" afterPath="$PROJECT_DIR$/images/cars/bmw/album/th/13.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/bmw/album/th/14.jpg" afterPath="$PROJECT_DIR$/images/cars/bmw/album/th/14.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/bmw/album/th/15.jpg" afterPath="$PROJECT_DIR$/images/cars/bmw/album/th/15.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/bmw/album/th/16.jpg" afterPath="$PROJECT_DIR$/images/cars/bmw/album/th/16.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/bmw/album/th/17.jpg" afterPath="$PROJECT_DIR$/images/cars/bmw/album/th/17.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/bmw/main.png" afterPath="$PROJECT_DIR$/images/cars/bmw/main.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/bmw/main1.png" afterPath="$PROJECT_DIR$/images/cars/bmw/main1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/bmw/main2.png" afterPath="$PROJECT_DIR$/images/cars/bmw/main2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/01.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/01.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/02.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/02.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/03.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/03.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/04.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/04.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/05.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/05.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/06.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/06.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/07.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/07.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/08.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/08.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/09.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/09.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/10.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/10.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/11.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/11.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/12.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/12.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/13.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/13.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/14.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/14.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/15.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/15.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/16.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/16.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/17.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/17.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/18.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/18.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/19.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/19.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/20.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/21.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/21.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/22.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/22.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/23.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/23.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/24.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/24.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/25.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/25.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/26.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/26.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/27.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/27.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/28.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/28.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/29.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/29.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/30.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/30.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/medium/01.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/01.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/medium/02.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/02.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/medium/03.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/03.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/medium/04.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/04.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/medium/05.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/05.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/medium/06.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/06.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/medium/07.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/07.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/medium/08.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/08.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/medium/09.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/09.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/medium/10.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/10.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/medium/11.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/11.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/medium/12.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/12.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/medium/13.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/13.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/medium/14.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/14.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/medium/15.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/15.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/medium/16.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/16.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/medium/17.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/17.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/medium/18.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/18.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/medium/19.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/19.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/medium/20.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/medium/21.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/21.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/medium/22.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/22.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/medium/23.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/23.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/medium/24.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/24.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/medium/25.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/25.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/medium/26.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/26.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/medium/27.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/27.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/medium/28.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/28.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/medium/29.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/29.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/medium/30.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/medium/30.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/th/01.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/01.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/th/02.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/02.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/th/03.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/03.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/th/04.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/04.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/th/05.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/05.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/th/06.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/06.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/th/07.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/07.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/th/08.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/08.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/th/09.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/09.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/th/10.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/10.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/th/11.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/11.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/th/12.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/12.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/th/13.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/13.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/th/14.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/14.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/th/15.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/15.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/th/16.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/16.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/th/17.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/17.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/th/18.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/18.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/th/19.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/19.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/th/20.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/th/21.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/21.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/th/22.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/22.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/th/23.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/23.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/th/24.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/24.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/th/25.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/25.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/th/26.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/26.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/th/27.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/27.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/th/28.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/28.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/th/29.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/29.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/album/th/30.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler/album/th/30.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/main.png" afterPath="$PROJECT_DIR$/images/cars/chrysler/main.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler/main_old.png" afterPath="$PROJECT_DIR$/images/cars/chrysler/main_old.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/01.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/01.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/02.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/02.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/03.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/03.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/04.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/04.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/05.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/05.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/06.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/06.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/07.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/07.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/08.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/08.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/09.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/09.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/10.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/10.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/11.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/11.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/12.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/12.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/13.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/13.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/14.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/14.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/15.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/15.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/medium/01.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/medium/01.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/medium/02.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/medium/02.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/medium/03.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/medium/03.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/medium/04.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/medium/04.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/medium/05.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/medium/05.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/medium/06.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/medium/06.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/medium/07.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/medium/07.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/medium/08.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/medium/08.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/medium/09.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/medium/09.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/medium/10.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/medium/10.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/medium/11.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/medium/11.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/medium/12.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/medium/12.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/medium/13.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/medium/13.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/medium/14.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/medium/14.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/medium/15.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/medium/15.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/th/01.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/th/01.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/th/02.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/th/02.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/th/03.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/th/03.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/th/04.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/th/04.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/th/05.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/th/05.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/th/06.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/th/06.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/th/07.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/th/07.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/th/08.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/th/08.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/th/09.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/th/09.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/th/10.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/th/10.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/th/11.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/th/11.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/th/12.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/th/12.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/th/13.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/th/13.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/th/14.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/th/14.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/th/15.jpg" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/album/th/15.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cars/chrysler_cabrio/main.png" afterPath="$PROJECT_DIR$/images/cars/chrysler_cabrio/main.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/decorations/audi/1.jpg" afterPath="$PROJECT_DIR$/images/decorations/audi/1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/decorations/audi/2.jpg" afterPath="$PROJECT_DIR$/images/decorations/audi/2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/decorations/audi/3.jpg" afterPath="$PROJECT_DIR$/images/decorations/audi/3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/decorations/audi/4.jpg" afterPath="$PROJECT_DIR$/images/decorations/audi/4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/decorations/audi/5.jpg" afterPath="$PROJECT_DIR$/images/decorations/audi/5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/decorations/audi/6.jpg" afterPath="$PROJECT_DIR$/images/decorations/audi/6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/decorations/audi/big/1.jpg" afterPath="$PROJECT_DIR$/images/decorations/audi/big/1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/decorations/audi/big/2.jpg" afterPath="$PROJECT_DIR$/images/decorations/audi/big/2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/decorations/audi/big/3.jpg" afterPath="$PROJECT_DIR$/images/decorations/audi/big/3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/decorations/audi/big/4.jpg" afterPath="$PROJECT_DIR$/images/decorations/audi/big/4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/decorations/audi/big/5.jpg" afterPath="$PROJECT_DIR$/images/decorations/audi/big/5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/decorations/audi/big/6.jpg" afterPath="$PROJECT_DIR$/images/decorations/audi/big/6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/decorations/bmw/1.jpg" afterPath="$PROJECT_DIR$/images/decorations/bmw/1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/decorations/bmw/10.jpg" afterPath="$PROJECT_DIR$/images/decorations/bmw/10.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/decorations/bmw/11.jpg" afterPath="$PROJECT_DIR$/images/decorations/bmw/11.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/decorations/bmw/12.jpg" afterPath="$PROJECT_DIR$/images/decorations/bmw/12.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/decorations/bmw/2.jpg" afterPath="$PROJECT_DIR$/images/decorations/bmw/2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/decorations/bmw/3.jpg" afterPath="$PROJECT_DIR$/images/decorations/bmw/3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/decorations/bmw/4.jpg" afterPath="$PROJECT_DIR$/images/decorations/bmw/4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/decorations/bmw/5.jpg" afterPath="$PROJECT_DIR$/images/decorations/bmw/5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/decorations/bmw/6.jpg" afterPath="$PROJECT_DIR$/images/decorations/bmw/6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/decorations/bmw/7.jpg" afterPath="$PROJECT_DIR$/images/decorations/bmw/7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/decorations/bmw/8.jpg" afterPath="$PROJECT_DIR$/images/decorations/bmw/8.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/decorations/bmw/9.jpg" afterPath="$PROJECT_DIR$/images/decorations/bmw/9.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/decorations/bmw/big/1.jpg" afterPath="$PROJECT_DIR$/images/decorations/bmw/big/1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/decorations/bmw/big/10.jpg" afterPath="$PROJECT_DIR$/images/decorations/bmw/big/10.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/decorations/bmw/big/11.jpg" afterPath="$PROJECT_DIR$/images/decorations/bmw/big/11.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/decorations/bmw/big/12.jpg" afterPath="$PROJECT_DIR$/images/decorations/bmw/big/12.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/decorations/bmw/big/2.jpg" afterPath="$PROJECT_DIR$/images/decorations/bmw/big/2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/decorations/bmw/big/3.jpg" afterPath="$PROJECT_DIR$/images/decorations/bmw/big/3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/decorations/bmw/big/4.jpg" afterPath="$PROJECT_DIR$/images/decorations/bmw/big/4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/decorations/bmw/big/5.jpg" afterPath="$PROJECT_DIR$/images/decorations/bmw/big/5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/decorations/bmw/big/6.jpg" afterPath="$PROJECT_DIR$/images/decorations/bmw/big/6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/decorations/bmw/big/7.jpg" afterPath="$PROJECT_DIR$/images/decorations/bmw/big/7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/decorations/bmw/big/8.jpg" afterPath="$PROJECT_DIR$/images/decorations/bmw/big/8.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/decorations/bmw/big/9.jpg" afterPath="$PROJECT_DIR$/images/decorations/bmw/big/9.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/decorations/chrysler/1.jpg" afterPath="$PROJECT_DIR$/images/decorations/chrysler/1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/decorations/chrysler/2.jpg" afterPath="$PROJECT_DIR$/images/decorations/chrysler/2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/decorations/chrysler/3.jpg" afterPath="$PROJECT_DIR$/images/decorations/chrysler/3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/decorations/chrysler/4.jpg" afterPath="$PROJECT_DIR$/images/decorations/chrysler/4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/decorations/chrysler/5.jpg" afterPath="$PROJECT_DIR$/images/decorations/chrysler/5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/decorations/chrysler/6.jpg" afterPath="$PROJECT_DIR$/images/decorations/chrysler/6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/decorations/chrysler/big/1.jpg" afterPath="$PROJECT_DIR$/images/decorations/chrysler/big/1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/decorations/chrysler/big/2.jpg" afterPath="$PROJECT_DIR$/images/decorations/chrysler/big/2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/decorations/chrysler/big/3.jpg" afterPath="$PROJECT_DIR$/images/decorations/chrysler/big/3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/decorations/chrysler/big/4.jpg" afterPath="$PROJECT_DIR$/images/decorations/chrysler/big/4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/decorations/chrysler/big/5.jpg" afterPath="$PROJECT_DIR$/images/decorations/chrysler/big/5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/decorations/chrysler/big/6.jpg" afterPath="$PROJECT_DIR$/images/decorations/chrysler/big/6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/design/base-header.jpg" afterPath="$PROJECT_DIR$/images/design/base-header.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/design/colorbox/border.png" afterPath="$PROJECT_DIR$/images/design/colorbox/border.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/design/colorbox/controls.png" afterPath="$PROJECT_DIR$/images/design/colorbox/controls.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/design/colorbox/loading.gif" afterPath="$PROJECT_DIR$/images/design/colorbox/loading.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/design/colorbox/loading_background.png" afterPath="$PROJECT_DIR$/images/design/colorbox/loading_background.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/design/colorbox/overlay.png" afterPath="$PROJECT_DIR$/images/design/colorbox/overlay.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/design/logo.png" afterPath="$PROJECT_DIR$/images/design/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/design/owl/AjaxLoader.gif" afterPath="$PROJECT_DIR$/images/design/owl/AjaxLoader.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/design/owl/grabbing.png" afterPath="$PROJECT_DIR$/images/design/owl/grabbing.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/design/thanks.png" afterPath="$PROJECT_DIR$/images/design/thanks.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/main/1.jpg" afterPath="$PROJECT_DIR$/images/main/1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/main/11.png" afterPath="$PROJECT_DIR$/images/main/11.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/main/2.jpg" afterPath="$PROJECT_DIR$/images/main/2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/main/3.jpg" afterPath="$PROJECT_DIR$/images/main/3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/main/4.jpg" afterPath="$PROJECT_DIR$/images/main/4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/main/auto1.png" afterPath="$PROJECT_DIR$/images/main/auto1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/main/auto2.png" afterPath="$PROJECT_DIR$/images/main/auto2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/main/auto3.png" afterPath="$PROJECT_DIR$/images/main/auto3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/testimonials/1.jpg" afterPath="$PROJECT_DIR$/images/testimonials/1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/testimonials/2.png" afterPath="$PROJECT_DIR$/images/testimonials/2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/testimonials/3.png" afterPath="$PROJECT_DIR$/images/testimonials/3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/testimonials/photos/1/1.jpg" afterPath="$PROJECT_DIR$/images/testimonials/photos/1/1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/testimonials/photos/1/2.jpg" afterPath="$PROJECT_DIR$/images/testimonials/photos/1/2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/testimonials/photos/2/1.jpg" afterPath="$PROJECT_DIR$/images/testimonials/photos/2/1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/testimonials/photos/2/2.jpg" afterPath="$PROJECT_DIR$/images/testimonials/photos/2/2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/testimonials/users/1.jpg" afterPath="$PROJECT_DIR$/images/testimonials/users/1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/testimonials/users/2.jpg" afterPath="$PROJECT_DIR$/images/testimonials/users/2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/autoprokat.iml" afterPath="$PROJECT_DIR$/.idea/autoprokat.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CNAME" afterPath="$PROJECT_DIR$/CNAME" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/common/footer.html" afterPath="$PROJECT_DIR$/_includes/common/footer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/common/head.html" afterPath="$PROJECT_DIR$/_includes/common/head.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/common/navigation.html" afterPath="$PROJECT_DIR$/_includes/common/navigation.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/icon-github.html" afterPath="$PROJECT_DIR$/_includes/icon-github.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/icon-github.svg" afterPath="$PROJECT_DIR$/_includes/icon-github.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/icon-twitter.html" afterPath="$PROJECT_DIR$/_includes/icon-twitter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/icon-twitter.svg" afterPath="$PROJECT_DIR$/_includes/icon-twitter.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/main/buynow.html" afterPath="$PROJECT_DIR$/_includes/main/buynow.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/main/cars/audi.html" afterPath="$PROJECT_DIR$/_includes/main/cars/audi.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/main/cars/bmw.html" afterPath="$PROJECT_DIR$/_includes/main/cars/bmw.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/main/cars/chrysler.html" afterPath="$PROJECT_DIR$/_includes/main/cars/chrysler.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/main/cars/chrysler_cabrio.html" afterPath="$PROJECT_DIR$/_includes/main/cars/chrysler_cabrio.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/main/counters.html" afterPath="$PROJECT_DIR$/_includes/main/counters.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/main/decorations.html" afterPath="$PROJECT_DIR$/_includes/main/decorations.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/main/pricing.html" afterPath="$PROJECT_DIR$/_includes/main/pricing.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/main/testimonials.html" afterPath="$PROJECT_DIR$/_includes/main/testimonials.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/main/top_carousel.html" afterPath="$PROJECT_DIR$/_includes/main/top_carousel.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/modal/audi.html" afterPath="$PROJECT_DIR$/_includes/modal/audi.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/modal/bmw.html" afterPath="$PROJECT_DIR$/_includes/modal/bmw.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/modal/chrysler.html" afterPath="$PROJECT_DIR$/_includes/modal/chrysler.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/modal/chrysler_cabrio.html" afterPath="$PROJECT_DIR$/_includes/modal/chrysler_cabrio.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/pages/audi/a4.html" afterPath="$PROJECT_DIR$/_includes/pages/audi/a4.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/pages/audi/a6.html" afterPath="$PROJECT_DIR$/_includes/pages/audi/a6.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/pages/audi/buynow.html" afterPath="$PROJECT_DIR$/_includes/pages/audi/buynow.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/pages/audi/gallery.html" afterPath="$PROJECT_DIR$/_includes/pages/audi/gallery.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/pages/audi/pricing.html" afterPath="$PROJECT_DIR$/_includes/pages/audi/pricing.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/pages/bmw/bmw.html" afterPath="$PROJECT_DIR$/_includes/pages/bmw/bmw.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/pages/bmw/buynow.html" afterPath="$PROJECT_DIR$/_includes/pages/bmw/buynow.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/pages/bmw/gallery.html" afterPath="$PROJECT_DIR$/_includes/pages/bmw/gallery.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/pages/bmw/pricing.html" afterPath="$PROJECT_DIR$/_includes/pages/bmw/pricing.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/pages/chrysler/buynow.html" afterPath="$PROJECT_DIR$/_includes/pages/chrysler/buynow.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/pages/chrysler/chrysler.html" afterPath="$PROJECT_DIR$/_includes/pages/chrysler/chrysler.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/pages/chrysler/gallery.html" afterPath="$PROJECT_DIR$/_includes/pages/chrysler/gallery.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/pages/chrysler/pricing.html" afterPath="$PROJECT_DIR$/_includes/pages/chrysler/pricing.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/pages/testimonials/header.html" afterPath="$PROJECT_DIR$/_includes/pages/testimonials/header.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/cars.html" afterPath="$PROJECT_DIR$/_layouts/cars.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/main.html" afterPath="$PROJECT_DIR$/_layouts/main.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/page.html" afterPath="$PROJECT_DIR$/_layouts/page.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/testimonials.html" afterPath="$PROJECT_DIR$/_layouts/testimonials.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_plugins/direcory_tag.rb" afterPath="$PROJECT_DIR$/_plugins/direcory_tag.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-02-12-testimonials-1.markdown" afterPath="$PROJECT_DIR$/_posts/2016-02-12-testimonials-1.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-02-12-testimonials-2.markdown" afterPath="$PROJECT_DIR$/_posts/2016-02-12-testimonials-2.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_sass/_base.scss" afterPath="$PROJECT_DIR$/_sass/_base.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_sass/_layout.scss" afterPath="$PROJECT_DIR$/_sass/_layout.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_sass/_syntax-highlighting.scss" afterPath="$PROJECT_DIR$/_sass/_syntax-highlighting.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/audi.html" afterPath="$PROJECT_DIR$/audi.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bmw.html" afterPath="$PROJECT_DIR$/bmw.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chrysler.html" afterPath="$PROJECT_DIR$/chrysler.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/colorbox.css" afterPath="$PROJECT_DIR$/css/colorbox.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/css/font-awesome.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fotorama.css" afterPath="$PROJECT_DIR$/css/fotorama.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/jquery.fancybox.css" afterPath="$PROJECT_DIR$/css/jquery.fancybox.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.scss" afterPath="$PROJECT_DIR$/css/main.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/owl.carousel.css" afterPath="$PROJECT_DIR$/css/owl.carousel.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/owl.theme.css" afterPath="$PROJECT_DIR$/css/owl.theme.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/view-source_affapress.com_templates_promium_profesional_conversion_landing_page_html_header_5_css_ie-older.css" afterPath="$PROJECT_DIR$/css/view-source_affapress.com_templates_promium_profesional_conversion_landing_page_html_header_5_css_ie-older.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/feed.xml" afterPath="$PROJECT_DIR$/feed.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/bootstrap.js" afterPath="$PROJECT_DIR$/js/bootstrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/fotorama.js" afterPath="$PROJECT_DIR$/js/fotorama.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery.colorbox.js" afterPath="$PROJECT_DIR$/js/jquery.colorbox.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/owl.carousel.min.js" afterPath="$PROJECT_DIR$/js/owl.carousel.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testimonials/all.html" afterPath="$PROJECT_DIR$/testimonials/all.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thanks.html" afterPath="$PROJECT_DIR$/thanks.html" />
     </list>
     <ignored path="autoprokat.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,7 +511,7 @@
     <favorites_list name="autoprokat" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="main.jpg" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/images/cars/audi/main.jpg">
           <provider selected="true" editor-type-id="images">
@@ -57,7 +536,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="a4.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="a4.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/pages/audi/a4.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="483">
@@ -65,6 +544,16 @@
               <folding>
                 <marker date="1465496406921" expanded="false" signature="985:1021" placeholder="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="audi.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/audi.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="1" column="27" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="3" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -79,11 +568,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pricing.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pricing.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/pages/audi/pricing.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+            <state relative-caret-position="483">
+              <caret line="23" column="59" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
               <folding />
             </state>
           </provider>
@@ -155,9 +644,9 @@
         <option value="$PROJECT_DIR$/_includes/modal/chrysler_cabrio.html" />
         <option value="$PROJECT_DIR$/_includes/main/top_carousel.html" />
         <option value="$PROJECT_DIR$/_includes/main/cars/chrysler_cabrio.html" />
-        <option value="$PROJECT_DIR$/_includes/pages/audi/pricing.html" />
         <option value="$PROJECT_DIR$/_includes/pages/audi/buynow.html" />
         <option value="$PROJECT_DIR$/_includes/pages/audi/a4.html" />
+        <option value="$PROJECT_DIR$/_includes/pages/audi/pricing.html" />
       </list>
     </option>
   </component>
@@ -169,8 +658,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="65" />
     <option name="y" value="24" />
-    <option name="width" value="1301" />
-    <option name="height" value="744" />
+    <option name="width" value="1855" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -437,7 +926,9 @@
       <workItem from="1463646500409" duration="22000" />
       <workItem from="1464025345634" duration="3151000" />
       <workItem from="1464086099620" duration="11000" />
-      <workItem from="1465496173314" duration="244000" />
+      <workItem from="1465496173314" duration="854000" />
+      <workItem from="1465811639176" duration="9000" />
+      <workItem from="1465990867909" duration="63000" />
     </task>
     <task id="LOCAL-00001" summary="change chrysler photos">
       <created>1458199587775</created>
@@ -621,34 +1112,41 @@
       <option name="project" value="LOCAL" />
       <updated>1465496257648</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="remove A4">
+      <created>1465496425797</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1465496425797</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23955000" />
+    <option name="totallyTimeSpent" value="24637000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="1301" height="744" extended-state="6" />
-    <editor active="false" />
+    <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16229117" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11485367" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3277487" sideWeight="0.5019326" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965213" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24958587" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3253138" sideWeight="0.49806738" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -683,7 +1181,8 @@
     <MESSAGE value="fix layout" />
     <MESSAGE value="added cabrio" />
     <MESSAGE value="change audi price" />
-    <option name="LAST_COMMIT_MESSAGE" value="change audi price" />
+    <MESSAGE value="remove A4" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove A4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -771,13 +1270,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="22" column="114" selection-start-line="22" selection-start-column="114" selection-end-line="22" selection-end-column="114" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/audi.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="27" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -1011,14 +1503,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/pages/audi/pricing.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/pages/audi/buynow.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
@@ -1034,6 +1518,22 @@
           <folding>
             <marker date="1465496406921" expanded="false" signature="985:1021" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/audi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="27" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/pages/audi/pricing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="59" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
+          <folding />
         </state>
       </provider>
     </entry>
