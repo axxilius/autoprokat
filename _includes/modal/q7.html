@@ -1,18 +1,15 @@
 <!-- Modal -->
-<div class="modal fade" id="audi-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+<div class="modal fade" id="audiq7-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
     <div class="modal-dialog" role="document">
         <div class="modal-content">
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                <h4 class="modal-title" id="myModalLabel">Фотоальбом ауди</h4>
+                <h4 class="modal-title" id="myModalLabel">Фотоальбом ауди Q7</h4>
             </div>
             <div class="modal-body">
-                <div id="fotorama-audi" class="fotorama" data-fit="cover" data-nav="thumbs" data-width="730" data-height="400">
-                    {% for i in (1..9) %}
-                    <img src="images/cars/audi/album/medium/0{{ i }}.jpg"/>
-                    {% endfor %}
-                    {% for i in (10..34) %}
-                    <img src="images/cars/audi/album/medium/{{ i }}.jpg"/>
+                <div id="fotorama-audiq7" class="fotorama" data-fit="cover" data-nav="thumbs" data-width="730" data-height="400">
+                    {% for i in (1..6) %}
+                    <img src="images/cars/q7/album/medium/{{ i }}.jpeg"/>
                     {% endfor %}
                 </div>
             </div>
